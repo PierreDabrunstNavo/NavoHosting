@@ -34,3 +34,7 @@
 0.0.0.0 vungle.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 googleadservices.com
+0.0.0.0 *.doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 doubleclick.net
