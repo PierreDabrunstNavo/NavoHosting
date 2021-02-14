@@ -6,3 +6,5 @@
 #################################
 0.0.0.0 pterodactyl-addons.com
 0.0.0.0 www.pterodactyl-addons.com
+0.0.0.0 securecloud-smart.com
+0.0.0.0 frogrugby.com
