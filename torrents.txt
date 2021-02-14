@@ -1,9 +1,9 @@
-#################################
+ ###############################
 # List of blocked Torrent sites #
 #                               #
 # format: 0.0.0.0 site.tld      #
 #         0.0.0.0 www.site.tld  #
-#################################
+ ###############################
 0.0.0.0 ebooks-share.net
 0.0.0.0 downloadgamestorrents.com
 0.0.0.0 baixarmegagamestorrent.com
