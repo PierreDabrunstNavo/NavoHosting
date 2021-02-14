@@ -36,7 +36,7 @@
 0.0.0.0 playtomic.com
 0.0.0.0 stathat.com
 0.0.0.0 supercell.net
-0.0.0.0 supercell.net
+0.0.0.0 supercell.com
 0.0.0.0 tapjoy.com
 0.0.0.0 trackersimulator.org
 0.0.0.0 usergrid.com
