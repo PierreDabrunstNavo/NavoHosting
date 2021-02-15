@@ -65,7 +65,6 @@
 0.0.0.0 fosshub.com
 0.0.0.0 vuze.com
 0.0.0.0 cf1.vuze.com
-0.0.0.0 utorrent.com
 0.0.0.0 download-hr.utorrent.com
 0.0.0.0 download-new.utorrent.com
 0.0.0.0 bittorrent.com
